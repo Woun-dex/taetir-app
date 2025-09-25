@@ -1,0 +1,23 @@
+{
+  "name": "taetir",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Walidelab/TAETIR#readme",
+  "bugs": {
+    "url": "https://github.com/Walidelab/TAETIR/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Walidelab/TAETIR.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "git-filter-repo": "^0.0.30"
+  }
+}
