@@ -66,7 +66,7 @@ reviews: Stores the ratings and comments for completed sessions, allowing for tw
 This project is fully containerized. To get a local development environment up and running, you will need Docker and Docker Compose installed on your machine.
 
 1. Clone the Repository
-git clone <your-repository-url>
+
 cd taetir-project
 
 2. Configure Environment Variables
